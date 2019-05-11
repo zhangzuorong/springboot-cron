@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: quarty-one
+
+server:
+  port: 8668

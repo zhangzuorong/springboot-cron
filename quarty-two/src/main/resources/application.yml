@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: quarty-two
+
+server:
+  port: 8669
